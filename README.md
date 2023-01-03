@@ -1,9 +1,6 @@
-
-<div style="text-align: center;">
-
-![Header](https://github.com/vickiticy/vickiticy/blob/main/9dsD.gif)
-
-</div>
+<p align="center">
+  <img width="400" height="250" src="https://github.com/vickiticy/vickiticy/blob/main/9dsD.gif"  alt="animated" />
+</p>
 
 ### <p style="text-align: center;">Привет, меня зовут Виктория! 👋</p>
 
