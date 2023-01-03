@@ -2,14 +2,14 @@
   <img width="400" height="250" src="https://github.com/vickiticy/vickiticy/blob/main/9dsD.gif"  alt="animated" />
 </p>
 
-### <p align="center">
-  
-Привет, меня зовут Виктория! 👋
- 
-[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/Zimina_Victoria)
-[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9601904218)
-  
-</p>
+### <p align="center">Привет, меня зовут Виктория! 👋</p>
+
+<div align="center">
+
+  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/Zimina_Victoria)</a>
+  <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9601904218)</a>
+
+</div>
 
 * Занимаюсь аналитикой данных 📈
 * Готова к сотрудничеству 🤝
