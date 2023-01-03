@@ -1,5 +1,5 @@
 
-![Header](https://i.gifer.com/9dsD.gif)
+![Header](https://github.com/vickiticy/vickiticy/blob/main/9dsD.gif)
 
 ### Привет, меня зовут Виктория! 👋
 
@@ -19,6 +19,7 @@
 
 <hr>
 🛠️ Languages and Tools :
+
 
 ![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
 ![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-FFF?style=for-the-badge&logo=Jupyter)
